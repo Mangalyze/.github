@@ -7,10 +7,7 @@ Kami adalah sekelompok empat individu dari berbagai daerah di Indonesia yang dip
 
 **Laskar AI** adalah bagian dari inisiatif **AI Nation**, bertujuan untuk mencetak talenta digital unggul di bidang Machine Learning dan Data Science sebagai pondasi dalam pengembangan teknologi Artificial Intelligence (AI) di Indonesia.  
 
-Melalui pelatihan intensif, kami berkomitmen untuk:
-- Memahami dan menerapkan teknologi AI secara nyata
-- Mengembangkan solusi inovatif untuk kemajuan bangsa
-- Berkontribusi menuju visi **Indonesia Emas 2045**
+Melalui pelatihan intensif, kami membuat capstone project: **Mangalyze**, sebuah sistem deteksi kondisi daun mangga berbasis pengenalan citra dengan 7 kelas berbeda yang terdiri dari: 6 kelas kondisi penyakit, 1 kelas kondisi sehat dan logika rekomendasi sederhana. Proyek ini memanfaatkan CNN untuk mengklasifikasikan daun mangga dan memberikan rekomendasi penanganan yang mudah dipahami. Solusi ini ditujukan untuk mendukung pertanian presisi yang efisien dan berkelanjutan di Indonesia.
 
 ---
 
