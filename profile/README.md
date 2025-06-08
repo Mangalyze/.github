@@ -24,7 +24,7 @@ Melalui pelatihan intensif ini kami membuat capstone project : **Mangalyze**, se
 
 ## Kontak & Kolaborasi
 
-Kami terbuka untuk kolaborasi, saran, maupun diskusi lebih lanjut. Silakan hubungi kami melalui [GitHub Issues](https://github.com/your-org/issues)
+Kami terbuka untuk kolaborasi, saran, maupun diskusi lebih lanjut. Silakan hubungi kami melalui [GitHub Issues](https://github.com/orgs/Mangalyze/discussions)
 
 ---
 
