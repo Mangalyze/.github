@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/cb0b4553-fd25-493e-bb33-40419a629c6f
+![Thumbnail](https://github.com/user-attachments/assets/cb0b4553-fd25-493e-bb33-40419a629c6f)
 
 # Selamat datang di Organisasi kami "Mangalyze"!
 
