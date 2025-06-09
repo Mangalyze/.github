@@ -22,7 +22,7 @@ Melalui pelatihan intensif ini kami membuat capstone project : **Mangalyze**, se
 
 ---
 
-## Deployment Streamlit
+## Website Mangalyze
 
 Silahkan mencoba website kami melalui [Website Mangalyze](https://mangalyze.streamlit.app/)
 
