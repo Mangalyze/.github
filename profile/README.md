@@ -22,6 +22,14 @@ Melalui pelatihan intensif ini kami membuat capstone project : **Mangalyze**, se
 
 ---
 
+## Deployment Streamlit
+
+Silahkan mencoba website kami melalui [Website Mangalyze](https://mangalyze.streamlit.app/)
+
+---
+
+---
+
 ## Kontak & Kolaborasi
 
 Kami terbuka untuk kolaborasi, saran, maupun diskusi lebih lanjut. Silakan hubungi kami melalui [GitHub Issues](https://github.com/orgs/Mangalyze/discussions)
